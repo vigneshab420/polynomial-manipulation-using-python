@@ -1,0 +1,20 @@
+import java.util.Arraylist;
+class contact
+{
+Public static void main(string [] args)
+{
+Arraylist<string>con=NewArraylist<string>();
+con.add("vicky")
+con.add("sanjay")
+con.add("naav")
+con.add(monkey")
+con.add("dog")
+for(string con1:con)
+{
+system.out.println("contact List",+con1);
+}
+system.out.println("Receive"+con.get(3)):
+system.out.println(""Updrade"+con.set(4,"oops"))
+system.out.println("Delete"+con.remove(1)):
+}
+}
